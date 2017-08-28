@@ -1,0 +1,1 @@
+docker run --rm -v /Users/carlos/Documents/DevOps/Docker_outside_Docker/data/example_2:/home/out --name container_writter carlosym1/docker_writter_example

@@ -1,0 +1,1 @@
+docker rmi carlosym1/docker_writter_example
