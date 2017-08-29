@@ -40,10 +40,11 @@ Requirements in your host machine:
 # Docker outside Docker contains:
 
  * data (Sample data folder)
- * docker_filter (Docker image with a filter implementation)
- * docker_outside_docker (Docker image with all the things for executing docker outside docker)
- * docker_utils (A set of useful Docker commands to play with Docker)
- * docker_writter (Docker image with a node.js application that writes files in the file system)
+ * [docker_filter (Docker image with a filter implementation)] (https://github.com/carlosym/DockerOutsideDocker/tree/master/docker_filter)
+ * [docker_outside_docker (Docker image with all the things for executing docker outside docker)](https://github.com/carlosym/DockerOutsideDocker/tree/master/docker_outside_docker)
+ * [docker_outside_docker_base_image (Base docker image to play with docker outside docker)](https://github.com/carlosym/DockerOutsideDocker/tree/master/docker_outside_docker_base_image)
+ * [docker_utils (A set of useful Docker commands to play with Docker)](https://github.com/carlosym/DockerOutsideDocker/tree/master/docker_utils)
+ * [docker_writter (Docker image with a node.js application that writes files in the file system)](https://github.com/carlosym/DockerOutsideDocker/tree/master/docker_writter)
 
 ## Interesting articles
 
