@@ -45,6 +45,7 @@ Requirements in your host machine:
  * [docker_outside_docker_base_image (Base docker image to play with docker outside docker)](https://github.com/carlosym/DockerOutsideDocker/tree/master/docker_outside_docker_base_image)
  * [docker_utils (A set of useful Docker commands to play with Docker)](https://github.com/carlosym/DockerOutsideDocker/tree/master/docker_utils)
  * [docker_writter (Docker image with a node.js application that writes files in the file system)](https://github.com/carlosym/DockerOutsideDocker/tree/master/docker_writter)
+ * Dockerfile (DockerImage without extra libraries like Node.js)
 
 ## Interesting articles
 
