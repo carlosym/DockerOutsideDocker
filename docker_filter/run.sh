@@ -1,0 +1,1 @@
+docker run --rm -v /Users/carlos/Documents/DevOps/Docker_outside_Docker/data/example_3:/home/data --name dicom_ecg_extraction carlosym1/rkt_dicom_ecg_extraction data/in/ data/out/

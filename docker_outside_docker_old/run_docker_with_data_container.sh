@@ -1,1 +1,0 @@
-docker run -it -v /var/run/docker.sock:/var/run/docker.sock --volumes-from data_container -p 8080:8081 --name ciengine docker_outside_docker

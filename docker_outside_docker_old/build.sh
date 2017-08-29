@@ -1,1 +1,0 @@
-docker build -t docker_outside_docker .

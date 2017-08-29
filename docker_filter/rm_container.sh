@@ -1,0 +1,2 @@
+docker stop dicom_ecg_extraction
+docker rm dicom_ecg_extraction

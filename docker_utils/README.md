@@ -19,7 +19,7 @@ You will need to have installed the following technologies:
 
 # Clone repository
 
-`git clone repository`
+`git clone https://github.com/carlosym/DockerOutsideDocker.git`
 
 # Docker utils contains:
 

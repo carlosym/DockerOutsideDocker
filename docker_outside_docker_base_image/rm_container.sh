@@ -1,0 +1,2 @@
+docker stop docker_outside_docker
+docker rm docker_outside_docker

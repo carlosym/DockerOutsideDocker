@@ -1,0 +1,1 @@
+docker rmi carlosym1/rkt_dicom_ecg_extraction
